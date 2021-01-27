@@ -1,1 +1,0 @@
-# amp-local-storage
